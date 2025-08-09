@@ -1,4 +1,4 @@
-# 🔍 KQL Detection Queries
+# 🔍 PowerQuery Detection Queries
 
 ## 🚨 Login 
 
