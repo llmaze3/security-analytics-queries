@@ -31,3 +31,8 @@ EmailEvents
     and RecipientEmailAddress contains "user@email"
 ```
 
+**Use Case:** Format For Date (Between Day & Time)
+
+```kql
+(Date=2025-11-14T14:00:00..2025-11-14T16:00:00) AND (Recipients:<email>) 
+```
